@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background: #f4f4f4;
+}
+
+.container {
+    width: 300px;
+    margin: 50px auto;
+    padding: 15px;
+    background: white;
+    box-shadow: 0 0 5px gray;
+    border-radius: 5px;
+}
+
+input, button {
+    width: 50%;
+    margin: 5px 0;
+    padding: 8px;
+}
+
+button {
+    background: blue;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+ul {
+    padding: 0;
+    list-style: none;
+}
+
+li {
+    background: #ddd;
+    padding: 8px;
+    margin: 5px 0;
+    cursor: pointer;
+}
